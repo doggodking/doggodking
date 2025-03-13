@@ -19,7 +19,7 @@
 | 현대오토에버 중고차 앱 개발            | 2021.10 ~ 2023.07 | iOS 네이티브 앱 주요 기능 개발, API 연동, 공통 모듈 개발         | Swift, Objective-C     |
 | Grand-Stage 모바일 앱 운영       | 2021.12 ~ 현재    | iOS 하이브리드 앱 유지보수 및 운영, 웹 연동 개발                 | Swift, Objective-C     |
 | ABC-MART 모바일 앱 운영           | 2021.12 ~ 현재    | iOS 하이브리드 앱 유지보수 및 운영, 웹 연동 개발                 | Swift, Objective-C     |
-| 올리브영 글로벌 모바일 앱 운영        | 2020.08 ~ 현재    | iOS 하이브리드 앱 유지보수 및 운영, 웹 연동 개발                 | Swift, Objective-C     |
+| 올리브영 글로벌 모바일 앱 운영        | 2020.08 ~ 2024.10    | iOS 하이브리드 앱 유지보수 및 운영, 웹 연동 개발                 | Swift, Objective-C     |
 | OTS 모바일 앱 운영               | 2020.06 ~ 현재    | iOS 하이브리드 앱 유지보수 및 운영, 웹 연동 개발                 | Swift, Objective-C     |
 | A-RT 모바일 앱 운영              | 2020.06 ~ 현재    | iOS 하이브리드 앱 유지보수 및 운영, 웹 연동 개발                 | Swift, Objective-C     |
 | 또타 지하철 iOS 앱 개발             | 2020.04 ~ 2020.05 | 지하철 코레일 민원톡 iOS 네이티브 앱 개발 및 기술 자문          | Swift, Objective-C     |
