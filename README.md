@@ -99,8 +99,7 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 | Project | Description |
 |--------|-------------|
 | **Hyundai AutoEver - Used Car App** | Native iOS app for used car listings, API and shared modules integration |
-| **Grand-Stage App** | iOS hybrid app maintenance and web integration |
-| **ABC-MART / OTS / A-RT Apps** | iOS hybrid app development with extensive web features |
+| **ABC-MART / OTS / A-RT Apps / Grand-Stage Ap** | iOS hybrid app development with extensive web features |
 | **Olive Young Global App** | iOS hybrid app with multilingual support and global release workflow |
 | **W Shopping App** | Native video player + hybrid integration in shopping app |
 | **Home&Shopping App** | Hybrid maintenance and full UI refactor for shopping platform |
