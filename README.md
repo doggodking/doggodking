@@ -1,5 +1,12 @@
-# “If you’re not moving forward, you’re falling behind.”
-_가만히 있으면 도태된다. 앞으로 나아가지 않으면 뒤처질 뿐이다._
+<p align="center">
+  <img src="https://raw.githubusercontent.com/doggodking/doggodking/refs/heads/main/run.png" width="500" alt="Motivational Doggodking">
+</p>
+
+<h3 align="center">“If you’re not moving forward, you’re falling behind.”</h3>
+<p align="center"><i>가만히 있으면 도태된다. 앞으로 나아가지 않으면 뒤처질 뿐이다.</i></p>
+
+<br/>
+
 
 Hi there! I'm a developer who enjoys building cool things with mobile tech, especially around iOS and Flutter.  
 Also exploring how AI tools can speed up, clean up, and spice up development.  
