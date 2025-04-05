@@ -7,6 +7,7 @@
 
 <br/>
 
+---
 
 Hi there! I'm a developer who enjoys building cool things with mobile tech, especially around iOS and Flutter.  
 Also exploring how AI tools can speed up, clean up, and spice up development.  
@@ -14,6 +15,16 @@ Also exploring how AI tools can speed up, clean up, and spice up development.
 > ChatGPT, Copilot 같은 AI 도구를 활용해 개발을 더 빠르고 깔끔하게, 그리고 재미있게 만들고 있어요.
 
 ---
+👑 About the Name
+
+DOGGODKING = Dog + God + King
+A slightly spaced-out, lazy-looking shiba with divine potential.
+He walks slow, but always gets there eventually.
+
+평소엔 나태하고 멍청하지만, 일 앞에선 신성하게 임하며 코드의 존엄을 지키는 캐릭터입니다.
+
+---
+
 
 ## 🧠 Tech Stack
 
