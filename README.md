@@ -119,5 +119,4 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 ## 📫 Contact
 
 Feel free to reach me via:  
-> 궁금한 점은 언제든지 연락 주세요  
 - GitHub Issues or Discussions
