@@ -26,6 +26,8 @@ Also exploring how AI tools can speed up, clean up, and spice up development.
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![FigJam](https://img.shields.io/badge/FigJam-8E44AD?logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 
 ---
 
