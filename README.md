@@ -45,6 +45,7 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![FigJam](https://img.shields.io/badge/FigJam-8E44AD?logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
