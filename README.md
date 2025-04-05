@@ -92,6 +92,30 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 
 ---
 
+## 🧪 Featured Projects  
+> Projects I've contributed meaningfully to, both as lead and collaborator.
+
+| Project | Description |
+|--------|-------------|
+| **Hyundai AutoEver - Used Car App** | Native iOS app for used car listings, API and shared modules integration |
+| **Grand-Stage App** | iOS hybrid app maintenance and web integration |
+| **ABC-MART / OTS / A-RT Apps** | iOS hybrid app development with extensive web features |
+| **Olive Young Global App** | iOS hybrid app with multilingual support and global release workflow |
+| **W Shopping App** | Native video player + hybrid integration in shopping app |
+| **Home&Shopping App** | Hybrid maintenance and full UI refactor for shopping platform |
+| **TTA / Tota Subway App** | Native iOS app for subway complaints and real-time service |
+| **RentOK (SKT)** | Internal iOS app for rental management with full native UI/UX |
+| **NimblerPad** | Architecture consulting for in-house iOS app |
+| **Seoul Metro (Beacon)** | iOS location-based app using subway beacon positioning |
+| **Homeplus 4.0 App** | Full redesign of iOS app with hybrid interface rebuild |
+| **Homeplus Clickstream** | Custom iOS integration of marketing and tracking scripts |
+| **Samsung Card Shopping App** | Native iOS app issue resolution and tech consulting |
+| **RemoteCamPlus (SkyMobis)** | Native IP camera viewer app for SkyMobis U.S. branch |
+| **EasyNetTouchHD** | IP camera viewer app for U.S. market (legacy) |
+| **NVT Client (Durumi)** | iOS Onvif client paired with custom Android/Linux server stack |
+
+---
+
 ## 📫 Contact
 
 Feel free to reach me via:  
