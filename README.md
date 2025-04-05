@@ -18,10 +18,9 @@ Also exploring how AI tools can speed up, clean up, and spice up development.
 👑 About the Name
 
 DOGGODKING = Dog + God + King
-A slightly spaced-out, lazy-looking shiba with divine potential.
-He walks slow, but always gets there eventually.
 
-평소엔 나태하고 멍청하지만, 일 앞에선 신성하게 임하며 코드의 존엄을 지키는 캐릭터입니다.
+He may look lazy and spaced out, but when it comes to code, he works with divine focus and dignity.
+> 평소엔 나태하고 멍청하지만, 일 앞에선 신성하게 임하며 코드의 존엄을 지키는 캐릭터입니다.
 
 ---
 
