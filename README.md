@@ -85,8 +85,8 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 - 🎮 Designing & developing a mobile game using Flame  
   > Flame 엔진을 활용한 모바일 게임 기획 및 개발을 시작했습니다.
 
-- 📚 Curating & sharing Dart snippets as [**Dart Chips**](https://github.com/doggodking/dart-chips)  
-  > Dart 코드 모음집을 **Dart Chips** 라는 이름으로 GitHub에서 정리 중입니다.
+- 📚 Curating & sharing Dart snippets as [**RoyalDartBone**](https://github.com/doggodking/royal-dart-bone)  
+  > Dart 코드 모음집을 **RoyalDartBone** 라는 이름으로 GitHub에서 정리 중입니다.
 
 - 🤖 Integrating generative AI tools into real mobile workflows  
   > 생성형 AI 도구를 실제 모바일 개발 워크플로우에 녹여보는 실험을 진행 중이에요.
