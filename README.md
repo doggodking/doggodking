@@ -49,7 +49,7 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 ---
 
 ## 🧑‍💻 AI-Assisted Coding  
-> 직접 학습한 스택은 아니지만, AI 보조를 활용해 실제 결과물을 만들어온 영역입니다.
+> Stacks I haven't formally studied, but have shipped real work on with AI assistance.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
