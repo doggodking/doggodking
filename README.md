@@ -138,8 +138,6 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 | **EasyNetTouchHD** | IP camera viewer app for U.S. market (legacy) |
 | **NVT Client (Durumi)** | iOS Onvif client paired with custom Android/Linux server stack |
 
-> Many of the projects above were delivered during my time at [socialapps-co-kr](https://github.com/socialapps-co-kr).
-
 ---
 
 ## 🔗 Repositories
@@ -155,8 +153,7 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 ## 📫 Contact
 
 Feel free to reach me via:  
-- GitHub Issues or Discussions  
-- Profile: [github.com/doggodking](https://github.com/doggodking)
+- GitHub Issues or Discussions
 
 <!-- 방문자 수 카운터 -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=doggodking&color=blue)
