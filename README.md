@@ -118,10 +118,10 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 
 | Project | Description |
 |--------|-------------|
-| **Naver (External Contract)** | 현재 외부계약으로 참여 중 · 프로젝트 세부내용 비공개 |
-| ↳ **\*\*\*Log** | 로그 분석 추출 및 보고서 작성 자동화 *(세부 비공개)* |
-| ↳ **r\*\*\*\*-api** | 리뷰 분석 자동화 API 설계 *(세부 비공개)* |
-| ↳ **r\*\*\*-youtube** | 유튜브 리뷰 분석 자동화 아키텍처 설계 *(세부 비공개)* |
+| **Naver (External Contract)** | Ongoing external contract work · project details confidential |
+| ↳ **\*\*\*Log** | Automated log analysis, extraction and report generation *(details confidential)* |
+| ↳ **r\*\*\*\*-api** | API design for review analysis automation *(details confidential)* |
+| ↳ **r\*\*\*-youtube** | Architecture design for YouTube review analysis automation *(details confidential)* |
 | **Hyundai AutoEver - Used Car App** | Native iOS app for used car listings, API and shared modules integration |
 | **ABC-MART / OTS / A-RT Apps / Grand-Stage App** | iOS hybrid app development with extensive web features |
 | **Olive Young Global App** | iOS hybrid app with multilingual support and global release workflow |
@@ -138,7 +138,7 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 | **EasyNetTouchHD** | IP camera viewer app for U.S. market (legacy) |
 | **NVT Client (Durumi)** | iOS Onvif client paired with custom Android/Linux server stack |
 
-> 위 프로젝트 중 다수는 [socialapps-co-kr](https://github.com/socialapps-co-kr) 소속 당시 수행한 작업입니다.
+> Many of the projects above were delivered during my time at [socialapps-co-kr](https://github.com/socialapps-co-kr).
 
 ---
 
@@ -147,7 +147,7 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 - [**royal-dart-bone**](https://github.com/doggodking/royal-dart-bone) — Dart snippets collection *(public)*
 - [**search_image**](https://github.com/doggodking/search_image) — Dart *(public)*
 - [**console-noise-docs**](https://github.com/doggodking/console-noise-docs) — docs *(public)*
-- **socialback** — SNS / 소셜미디어 백업 툴, Python *(private)*
+- **socialback** — SNS / social media backup tool, Python *(private)*
 - **prompt-web-manager** — TypeScript *(private)*
 
 ---
