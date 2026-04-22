@@ -134,6 +134,9 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 | **RemoteCamPlus (SkyMobis)** | Native IP camera viewer app for SkyMobis U.S. branch |
 | **EasyNetTouchHD** | IP camera viewer app for U.S. market (legacy) |
 | **NVT Client (Durumi)** | iOS Onvif client paired with custom Android/Linux server stack |
+| **\*\*\*Log** | 로그 분석 추출 및 보고서 작성 자동화 *(세부 비공개)* |
+| **r\*\*\*\*-api** | 리뷰 분석 자동화 API 설계 *(세부 비공개)* |
+| **r\*\*\*-youtube** | 유튜브 리뷰 분석 자동화 아키텍처 설계 *(세부 비공개)* |
 
 > 위 프로젝트 중 다수는 [socialapps-co-kr](https://github.com/socialapps-co-kr) 소속 당시 수행한 작업입니다.
 
@@ -144,6 +147,7 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 - [**royal-dart-bone**](https://github.com/doggodking/royal-dart-bone) — Dart snippets collection *(public)*
 - [**search_image**](https://github.com/doggodking/search_image) — Dart *(public)*
 - [**console-noise-docs**](https://github.com/doggodking/console-noise-docs) — docs *(public)*
+- **socialback** — SNS / 소셜미디어 백업 툴, Python *(private)*
 - **prompt-web-manager** — TypeScript *(private)*
 
 ---
