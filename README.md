@@ -119,9 +119,9 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 | Project | Description |
 |--------|-------------|
 | **Naver (External Contract)** | Ongoing external contract work · project details confidential |
-| ↳ **\*\*\*Log** | Automated log analysis, extraction and report generation *(details confidential)* |
-| ↳ **r\*\*\*\*-api** | API design for review analysis automation *(details confidential)* |
-| ↳ **r\*\*\*-youtube** | Architecture design for YouTube review analysis automation *(details confidential)* |
+| **\*\*\*Log** | Automated log analysis, extraction and report generation *(details confidential)* |
+| **r\*\*\*\*-api** | API design for review analysis automation *(details confidential)* |
+| **r\*\*\*-youtube** | Architecture design for YouTube review analysis automation *(details confidential)* |
 | **Hyundai AutoEver - Used Car App** | Native iOS app for used car listings, API and shared modules integration |
 | **ABC-MART / OTS / A-RT Apps / Grand-Stage App** | iOS hybrid app development with extensive web features |
 | **Olive Young Global App** | iOS hybrid app with multilingual support and global release workflow |
