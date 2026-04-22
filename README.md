@@ -12,7 +12,7 @@
 Hi there! I'm a developer who enjoys building cool things with mobile tech, especially around iOS and Flutter.  
 These days I'm all-in on Claude-based automation, workflow automation, and vibe coding.  
 > iOS와 Flutter 기반의 모바일 기술로 멋진 무언가를 만드는 걸 좋아합니다.  
-> 요즘은 ChatGPT 대신 Claude 기반 자동화 · 업무 자동화 · 바이브 코딩(vibe coding) 위주로 작업하고 있어요.
+> Claude 기반 자동화 · 업무 자동화 · 바이브 코딩(vibe coding) 위주로 작업하고 있어요.
 
 ---
 👑 About the Name
@@ -68,8 +68,6 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 ![Claude Code Desktop](https://img.shields.io/badge/Claude%20Code-Desktop-CC785C?logoColor=white)
 ![Claude Cowork](https://img.shields.io/badge/Claude-Cowork-CC785C?logoColor=white)
 ![Claude Dispatch](https://img.shields.io/badge/Claude-Dispatch-CC785C?logoColor=white)
-![Claude API / Agent SDK](https://img.shields.io/badge/Claude%20API-Agent%20SDK-CC785C?logoColor=white)
-![Claude.ai](https://img.shields.io/badge/Claude.ai-Web-CC785C?logoColor=white)
 ![ComfyUI](https://img.shields.io/badge/ComfyUI-1C1C1C?logoColor=white)
 [![Krita](https://img.shields.io/badge/Krita-203759?logoColor=white)](https://krita.org)
 ![Notion AI](https://img.shields.io/badge/Notion%20AI-000000?logo=notion&logoColor=white)
@@ -101,8 +99,8 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 - 🤖 Building Claude-based automation & workflow pipelines  
   > Claude 기반 자동화 · 업무 자동화 파이프라인을 구축하고 있어요.
 
-- 🧠 Vibe coding experiments with Claude Code + Agent SDK  
-  > Claude Code와 Agent SDK로 바이브 코딩 실험을 이어가고 있습니다.
+- 🧠 Vibe coding experiments with Claude Code  
+  > Claude Code로 바이브 코딩 실험을 이어가고 있습니다.
 
 - 📱 Building scalable architecture for Flutter apps  
   > 확장 가능한 구조의 Flutter 앱을 설계하고 있어요.
