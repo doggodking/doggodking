@@ -10,9 +10,9 @@
 ---
 
 Hi there! I'm a developer who enjoys building cool things with mobile tech, especially around iOS and Flutter.  
-Also exploring how AI tools can speed up, clean up, and spice up development.  
+These days I'm all-in on Claude-based automation, workflow automation, and vibe coding.  
 > iOS와 Flutter 기반의 모바일 기술로 멋진 무언가를 만드는 걸 좋아합니다.  
-> ChatGPT, Copilot 같은 AI 도구를 활용해 개발을 더 빠르고 깔끔하게, 그리고 재미있게 만들고 있어요.
+> 요즘은 ChatGPT 대신 Claude 기반 자동화 · 업무 자동화 · 바이브 코딩(vibe coding) 위주로 작업하고 있어요.
 
 ---
 👑 About the Name
@@ -48,11 +48,31 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 
 ---
 
+## 🧑‍💻 AI-Assisted Coding  
+> 직접 학습한 스택은 아니지만, AI 보조를 활용해 실제 결과물을 만들어온 영역입니다.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+![Backend](https://img.shields.io/badge/Backend-Python%20%2F%20FastAPI-306998?logo=python&logoColor=white)
+
+---
+
 ## 🤖 AI Dev Assistants
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?logo=github&logoColor=white)
-![RunwayML](https://img.shields.io/badge/RunwayML-FF007F?logoColor=white)
+![Claude Code CLI](https://img.shields.io/badge/Claude%20Code-CLI-CC785C?logoColor=white)
+![Claude Code Desktop](https://img.shields.io/badge/Claude%20Code-Desktop-CC785C?logoColor=white)
+![Claude Cowork](https://img.shields.io/badge/Claude-Cowork-CC785C?logoColor=white)
+![Claude Dispatch](https://img.shields.io/badge/Claude-Dispatch-CC785C?logoColor=white)
+![Claude API / Agent SDK](https://img.shields.io/badge/Claude%20API-Agent%20SDK-CC785C?logoColor=white)
+![Claude.ai](https://img.shields.io/badge/Claude.ai-Web-CC785C?logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-1C1C1C?logoColor=white)
+[![Krita](https://img.shields.io/badge/Krita-203759?logoColor=white)](https://krita.org)
+![Notion AI](https://img.shields.io/badge/Notion%20AI-000000?logo=notion&logoColor=white)
 
 ---
 
@@ -78,6 +98,12 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 
 ## 🚀 Current Focus
 
+- 🤖 Building Claude-based automation & workflow pipelines  
+  > Claude 기반 자동화 · 업무 자동화 파이프라인을 구축하고 있어요.
+
+- 🧠 Vibe coding experiments with Claude Code + Agent SDK  
+  > Claude Code와 Agent SDK로 바이브 코딩 실험을 이어가고 있습니다.
+
 - 📱 Building scalable architecture for Flutter apps  
   > 확장 가능한 구조의 Flutter 앱을 설계하고 있어요.
 
@@ -87,9 +113,6 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 - 📚 Curating & sharing Dart snippets as [**RoyalDartBone**](https://github.com/doggodking/royal-dart-bone)  
   > Dart 코드 모음집을 **RoyalDartBone** 라는 이름으로 GitHub에서 정리 중입니다.
 
-- 🤖 Integrating generative AI tools into real mobile workflows  
-  > 생성형 AI 도구를 실제 모바일 개발 워크플로우에 녹여보는 실험을 진행 중이에요.
-
 ---
 
 ## 🧪 Featured Projects  
@@ -97,8 +120,9 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 
 | Project | Description |
 |--------|-------------|
+| **Naver (External Contract)** | 현재 외부계약으로 참여 중 · 프로젝트 세부내용 비공개 |
 | **Hyundai AutoEver - Used Car App** | Native iOS app for used car listings, API and shared modules integration |
-| **ABC-MART / OTS / A-RT Apps / Grand-Stage Ap** | iOS hybrid app development with extensive web features |
+| **ABC-MART / OTS / A-RT Apps / Grand-Stage App** | iOS hybrid app development with extensive web features |
 | **Olive Young Global App** | iOS hybrid app with multilingual support and global release workflow |
 | **W Shopping App** | Native video player + hybrid integration in shopping app |
 | **Home&Shopping App** | Hybrid maintenance and full UI refactor for shopping platform |
@@ -113,14 +137,24 @@ He may look lazy and spaced out, but when it comes to code, he works with divine
 | **EasyNetTouchHD** | IP camera viewer app for U.S. market (legacy) |
 | **NVT Client (Durumi)** | iOS Onvif client paired with custom Android/Linux server stack |
 
+> 위 프로젝트 중 다수는 [socialapps-co-kr](https://github.com/socialapps-co-kr) 소속 당시 수행한 작업입니다.
+
+---
+
+## 🔗 Repositories
+
+- [**royal-dart-bone**](https://github.com/doggodking/royal-dart-bone) — Dart snippets collection *(public)*
+- [**search_image**](https://github.com/doggodking/search_image) — Dart *(public)*
+- [**console-noise-docs**](https://github.com/doggodking/console-noise-docs) — docs *(public)*
+- **prompt-web-manager** — TypeScript *(private)*
 
 ---
 
 ## 📫 Contact
 
 Feel free to reach me via:  
-- GitHub Issues or Discussions
+- GitHub Issues or Discussions  
+- Profile: [github.com/doggodking](https://github.com/doggodking)
 
 <!-- 방문자 수 카운터 -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=doggodking&color=blue)
-
